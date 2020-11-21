@@ -11,4 +11,5 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 [Saúl Vetia de Juana](https://github.com/svd0009).
 
 [Santiago Díaz Gómez-Guillamón](https://github.com/sdg1002).
-[José Manuel Rodriguez Iglesias](https://github.com/jri1001)
+
+[José Manuel Rodriguez Iglesias](https://github.com/jri1001).
